@@ -1,3 +1,5 @@
+## Detecting Recyclable Objects on Images
+
 This is a machine learning project for detecting recyclable objects in images. Random Forest Classifier is used to classify images. CNN is not used in this project.
 
 #### Training
